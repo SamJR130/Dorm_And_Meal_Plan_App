@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dorm And Meal Plan App - SR</string>
+    <string name="str_dorm">Select a Dorm:</string>
+    <string name="str_meal_plan">Select a Meal Plan:</string>
+    <string name="str_calculate">Calculate Total</string>
+    <string name="str_result">$0.00</string>
+    <string-array name="dorms">
+        <item>Allen Hall</item>
+        <item>Pike Hall</item>
+        <item>Farthing Hall</item>
+        <item>University Suites</item>
+    </string-array>
+    <string-array name="meal_plans">
+        <item>7 meals per week</item>
+        <item>14 meals per week</item>
+        <item>Unlimited meals per week</item>
+    </string-array>
+</resources>
